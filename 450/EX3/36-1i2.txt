@@ -1,0 +1,11 @@
+1. Koja je razlika između while i for?
+
+For petlja se izvršava (iterira) po danom nizu, 
+dok se while petlja izvršava tako dugo dok je dani 
+uvjet zadovoljen.
+
+2. Koja je razlika između break i continue?
+
+Naredba break prekida izvršavanje prve najbliže petlje, dok
+naredba continue te vraća izvršavanje programa odnosno petlje
+na početak. 

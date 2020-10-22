@@ -1,0 +1,30 @@
+1. Funkcije možemo podijeliti na 2 dijela. Koja su to dva dijela?
+     Funkcija se sastoji od zaglavlja funkcije i tijela funkcije.
+
+2. Zaglavlje funkcije sastoji se od 3 elementa. Koji su to elementi?
+     Zaglavlje funkcije sastoji se od 3 elementa, a to su: ključna riječ
+def, ime funkcije i parametri funkcije.
+
+3. Ako funkcija prima 5 parametara, je li prilikom poziva funkcije
+potrebno navesti svih 5 argumenata ili postoji način da se neki
+argumenti izostave i ako da, na koji način?
+     Nije potrebno navesti svih 5 parametara. U parametrima funkcije
+neki od parametara može se postaviti na predefiniranu vrijednost
+na način: def funkcija(a, b, c, d, e=10). U ovom slučaju možemo pozvati funkciju na dva načina:
+      funkcija (5, 20, 30, 40)
+      funkcija (5, 20, 30, 40, 100)
+
+4. Kako se zove naredba pomoću koje funkcija vraća u pozivajući dio
+programa izračunatu vrijednost?
+     Naredba pomoću koje se iz funkcije vraća vrijednost u pozivajući
+dio programa zove se return.
+
+5. Kako se zove tip varijable koji je vidljiv samo u funkciji te se nakon
+završetka funkcije takva varijabla "uništava"?
+     Tip varijable koja se nakon završetka funkcije "uništava" zove se
+lokalna varijabla.
+
+6. Jesu li globalne varijable iz glavnog dijela programa vidljive u
+funkcijama?
+     Globalne varijable iz glavnog dijela programa vidljive su u
+funkcijama.

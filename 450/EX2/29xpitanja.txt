@@ -1,0 +1,15 @@
+1. Je li na svim računalima preciznost zapisa decimalnih brojeva
+jednaka?
+
+Preciznost može varirati ovisno o računalu, vrsti i tipu ugrađenog procesora i dostupnoj memoriji.
+
+2. Koji je skraćeni oblik aritmetičkog operatora ako neku varijablu
+želimo uvećati za neki broj?
+
++= je skraćeni obik zapisa ako želimo uvećati vrijednost varijable.
+
+3. Je li u Pythonu kod navođenja varijable potrebno eksplicitno navesti
+kojeg je tipa neka varijabla – int, float, string?
+
+U Pythonu nije potrebno navođenje tipa varijable. 
+
