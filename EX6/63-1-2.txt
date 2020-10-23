@@ -1,9 +1,0 @@
-1. Nalaze li se u modulima samo funkcije?
-    U paketima se uz funkcije nalaze i konstante poput: pi, e, tau,
-inf, nan.
-
-2. Ako najavimo korištenje modula pomoću naredbe import, je li
-potrebno prilikom poziva funkcije naznačiti u kojem modulu se
-pozivajuća funkcija nalazi?
-    Da, potrebno je prilikom poziva funkcije napisati i ime paketa u
-kojem se pozivajuća funkcija nalazi, na primjer, math.sqrt().
